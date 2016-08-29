@@ -1,0 +1,6 @@
+#Latex Builds File
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+*.toc
